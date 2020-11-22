@@ -3,7 +3,7 @@
 $host = 'localhost';
 $username = 'root';
 $password = '';
-$dbname = 'pbo_db';
+$dbname = 'sic_db';
 
 $con = mysqli_connect($host, $username, $password, $dbname);
 
